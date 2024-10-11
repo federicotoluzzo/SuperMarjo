@@ -10,7 +10,6 @@ public class GUI extends javax.swing.JPanel {
 
     public GUI() {
         setPreferredSize(new Dimension(800, 600));
-        paintComponent(getGraphics());
     }
 
     @Override
